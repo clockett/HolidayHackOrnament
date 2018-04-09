@@ -3,7 +3,7 @@ Women Who Code Seattle - Holiday Hardware Hack
 
 Thanks to Margaret Staples, Developer Evangelist @ Twilio for this fun project!
 
-![alt text](https://github.com/clockett/HolidayHackOrnament/master/images/Ornament.jpg "Wreath Ornament")
+<img src="/images/Ornament.jpg" alt="Wreath Ornament"/>
 
 We were given these parts:
 1. Adafruit Fona Feather micro controller board
