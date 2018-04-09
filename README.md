@@ -3,7 +3,7 @@ Women Who Code Seattle - Holiday Hardware Hack
 
 Thanks to Margaret Staples, Developer Evangelist @ Twilio for this fun project!
 
-<img src="/images/Ornament.jpg" width="302px" height="302px" alt="Wreath Ornament"/>
+<img src="/images/Ornament.gif" width="233px" height="310px" alt="Ornament"/>
 
 We were given these parts:
 1. Adafruit Fona Feather micro controller board
@@ -27,7 +27,7 @@ I used FILO clay to create the wreath and ribbon embellishments.
 
 [I found some of the functions for the ornament patterns and other information here.](https://learn.adafruit.com/florabrella/test-the-neopixel-strip)
 
-<img src="/images/Ornament.gif" width="233px" height="310px" alt="Ornament"/>
+<img src="/images/Ornament.jpg" width="302px" height="302px" alt="Wreath Ornament"/>
 
 I had a lot of fun with this! I learned that I really enjoyed soldering, creating, and programming electronics!
 
